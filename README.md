@@ -50,4 +50,4 @@ These concepts exist in every programming language. If you take the time to lear
 
   ## Time to build up your muscle memory ☺
   * Once your comfortable with the above material go to this site and complete all of the exercises [Programming by Doing](https://programmingbydoing.com/)
-  * Once you've completed all of this email me and I'll provide you with your first project to build.
+  * Once you've completed all of this email me and I'll provide you with your first project to build williesuggsdev@gmail.com.
