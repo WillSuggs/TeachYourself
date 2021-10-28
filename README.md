@@ -46,7 +46,7 @@ These concepts exist in every programming language. If you take the time to lear
 
 ## Daily exercises
   * Spend 15 minutes a day trying to solve one of the java problems on this site [codingbat](https://codingbat.com/prob/p187868)
-  * Spend 15 minutes a day playing researching/learn about the topics above e.g. what is it, what is it used for, when should your use it, how to implement it?
+  * Spend 15 minutes a day researching/learning about the topics above i.e. what is it, what is it used for, when should your use it, how to implement it?
 
   ## Time to build up your muscle memory ☺
   * Once your comfortable with the above material go to this site and complete all of the exercises [Programming by Doing](https://programmingbydoing.com/)
