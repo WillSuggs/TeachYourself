@@ -49,5 +49,5 @@ These concepts exist in every programming language. If you take the time to lear
   * Spend 15 minutes a day researching/learning about the topics above i.e. what is it, what is it used for, when should you use it, how to implement it?
 
   ## Time to build up your muscle memory ☺
-  * Once your comfortable with the above material go to this site and complete all of the exercises [Programming by Doing](https://programmingbydoing.com/)
-  * Once you've completed all of this email me and I'll provide you with your first project to build williesuggsdev@gmail.com.
+  * Once you are comfortable with the above material, go to this site and complete all of the exercises [Programming by Doing](https://programmingbydoing.com/)
+  * Once you've completed all of this, email me and I'll provide you with your first project to build williesuggsdev@gmail.com.
